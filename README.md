@@ -22,7 +22,6 @@ The application was developed with a bilingual architecture, supporting both **S
 
 * AppSheet Publisher Pro
 * Google Sheets
-* Google Apps Script
 * Dashboard and data visualization integrations
 * Automated workflows and cloud-based services
 
