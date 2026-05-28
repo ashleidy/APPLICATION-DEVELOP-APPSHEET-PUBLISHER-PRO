@@ -1,47 +1,147 @@
 # PROMIS Community Platform
 
-PROMIS is a full-stack community management platform developed using **AppSheet Publisher Pro**, designed to improve citizen participation, transparency, access to information, and community service management for Providencia Island.
+<p align="center">
+  <strong>Digital Community Management & Transparency Platform</strong><br>
+  Developed for citizen participation, public transparency, and community service management in Providencia Island.
+</p>
 
-The platform was created as a digital solution to support community interaction and public transparency processes related to the **Prior Consultation Ruling T-333 of 2022**, allowing citizens to access information, monitor projects, and participate actively through a centralized system.
+---
 
-The application was developed with a bilingual architecture, supporting both **Spanish and English**, enabling accessibility for local communities and international users.
+## 🌐 Live Application
 
-## Main Features
+🔗 **Public Access:**  
+https://www.appsheet.com/Template/AppDef?appName=PROMIS-417479651-26-05-25&utm_source=share_app_link
 
-* Secure authentication system with device-linked login and user profile management
-* Community news publication and consultation module
-* Monitoring dashboards for indicators, agreements, and community projects
-* Interactive calendar for community events
-* Citizen participation and opinion system
-* Local professionals directory and consultation panel
-* Job offers publication and consultation system
-* Live streaming functionality for official communications and community events
-* Public transparency dashboards related to the T-333 of 2022 ruling
+---
 
-## Technologies Used
+## 📌 Overview
 
-* AppSheet Publisher Pro
-* Google Sheets
-* Dashboard and data visualization integrations
-* Automated workflows and cloud-based services
+PROMIS is a cloud-based community management platform developed using **AppSheet Publisher Pro** and Google Workspace technologies.  
 
-## Architecture
+The platform was designed to centralize citizen interaction, improve transparency processes, and facilitate access to public information and community services through a scalable digital ecosystem.
 
-PROMIS follows a modular cloud-based architecture focused on scalability, accessibility, and rapid deployment. The platform integrates authentication systems, dynamic dashboards, community interaction modules, and automated workflows into a unified ecosystem.
+PROMIS supports the management and visibility of community projects, agreements, indicators, public communications, employment opportunities, and citizen participation processes related to the **Prior Consultation Ruling T-333 of 2022**.
 
-## Purpose of the Project
+The application includes a bilingual structure (**Spanish / English**) to improve accessibility for both local residents and international stakeholders.
 
-The purpose of PROMIS is to digitize and centralize community management processes while promoting transparency, citizen participation, and access to public information.
+---
 
-The platform was specifically designed to improve communication between institutions and citizens, facilitating real-time access to indicators, agreements, projects, employment opportunities, and community services.
+# 🚀 Core Features
 
-## Additional Notes
+### 🔐 Authentication & User Management
+- Secure authentication system
+- Device-linked access control
+- User profile administration
 
-PROMIS was developed as a custom governmental and community-oriented solution focused on usability, accessibility, and operational efficiency.
+### 📰 Community Information System
+- Community news publication
+- Public announcements
+- Information consultation modules
 
-The system combines low-code technologies with automation and data management tools to rapidly deliver scalable solutions with real-world impact.
+### 📊 Transparency & Monitoring Dashboards
+- Project monitoring dashboards
+- Public indicators visualization
+- Agreements and compliance tracking
+- Transparency panels related to T-333 of 2022
 
+### 📅 Community Event Management
+- Interactive event calendar
+- Community activity scheduling
+- Event visibility and coordination
 
-## 📹 VIDEO-CODE
+### 🗳 Citizen Participation Tools
+- Public participation modules
+- Opinion and consultation systems
+- Community feedback workflows
 
-[![Video-Code](https://img.shields.io/badge/Ver_Video-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/zaEaYJi0510)
+### 💼 Employment & Professional Services
+- Job offers publication system
+- Local professionals directory
+- Consultation and contact modules
+
+### 📡 Communication & Media
+- Live streaming integration
+- Official communications broadcasting
+- Public digital communication channels
+
+---
+
+# 🏗 System Architecture
+
+PROMIS follows a modular low-code cloud architecture focused on:
+
+- Scalability
+- Accessibility
+- Rapid deployment
+- Data centralization
+- Workflow automation
+- Community interoperability
+
+The ecosystem integrates authentication services, dashboards, dynamic modules, automation workflows, and cloud-based databases into a unified operational platform.
+
+---
+
+# ⚙ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| AppSheet Publisher Pro | Application Development |
+| Google Sheets | Cloud Database |
+| Google Workspace Services | Automation & Integration |
+| Dashboard Integrations | Data Visualization |
+| Cloud Workflows | Process Automation |
+
+---
+
+# 🎯 Project Objectives
+
+The primary objective of PROMIS is to digitize and modernize community management processes while improving:
+
+- Public transparency
+- Citizen participation
+- Access to information
+- Institutional communication
+- Community service accessibility
+- Operational efficiency
+
+The platform enables citizens and institutions to interact through a centralized digital environment with real-time access to community data and services.
+
+---
+
+# 🌍 Impact
+
+PROMIS was designed as a governmental and community-oriented digital solution capable of supporting:
+
+- Public participation initiatives
+- Transparency strategies
+- Community development programs
+- Institutional communication
+- Social monitoring processes
+- Digital transformation initiatives
+
+The project demonstrates how low-code technologies combined with automation systems can rapidly deliver scalable solutions with real-world social impact.
+
+---
+
+# 📹 Video Demonstration
+
+<p align="left">
+  <a href="https://youtu.be/zaEaYJi0510">
+    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+---
+
+# 📄 License
+
+This project was developed as a custom community and governmental digital solution for transparency, participation, and information management purposes.
+
+---
+
+# 👨‍💻 Developer
+
+**Ashleidy Vasquez**  
+AI & Automation Engineer  
+Low-Code Systems • Data Workflows • Cloud Automation • Community Digital Solutions
+
