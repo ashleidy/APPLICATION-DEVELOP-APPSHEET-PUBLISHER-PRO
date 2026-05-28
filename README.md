@@ -87,7 +87,6 @@ The ecosystem integrates authentication services, dashboards, dynamic modules, a
 |---|---|
 | AppSheet Publisher Pro | Application Development |
 | Google Sheets | Cloud Database |
-| Google Workspace Services | Automation & Integration |
 | Dashboard Integrations | Data Visualization |
 | Cloud Workflows | Process Automation |
 
